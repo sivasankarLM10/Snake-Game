@@ -10,3 +10,5 @@ A quick look at all the sub-bits that build the Snake Game in Python:<br><br>
 * 7\. Adding the Food 
 * 8\. Increasing the Length of the Snake
 * 9\. Displaying the Score
+
+Good Luck!
